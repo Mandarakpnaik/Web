@@ -1,0 +1,26 @@
+.name{
+    width: 80px;
+    height: 80px;
+    border: 2px,solid;
+}
+#f{
+    background-color: blue;
+    display: inline-block;
+    margin-left: 150px;
+}
+#s{
+    background-color: brown;
+    display: inline-block;
+    margin-left: 400px;
+}
+#t{
+    background-color: cadetblue;
+    display: inline-block;
+    margin-left: 350px;
+
+}
+#n{
+    background-color: chocolate;
+    display: inline-block;
+    margin-left: 250px;
+}

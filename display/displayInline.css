@@ -1,0 +1,18 @@
+.value{
+    width: 150px;
+    height: 150px;
+    border: 2px,solid;
+}
+#f{
+    background-color: blueviolet;
+    display: inline;
+    margin-left: 350px;
+}
+#s{
+    background-color: chartreuse;
+    display: inline;
+}
+#t{
+    background-color: brown;
+    display: inline;
+}
