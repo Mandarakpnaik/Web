@@ -1,0 +1,42 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 2px,solid,black;
+    display: inline-block;
+
+}
+#static{
+    background-color: cadetblue;
+    position: static;
+    /* not work top,bottom,left,right its is static */
+    top:30px;
+}
+#relative{
+
+    background-color: darkolivegreen;
+    position: relative;
+    top:50px;
+    right: 100px;
+    z-index: 30px;
+}
+
+#absolute{
+    background-color: skyblue;
+    position: absolute;
+    top:20px;
+
+}
+#fixed{
+    background-color: brown;
+    position: fixed;
+    bottom: 100px;
+
+}
+#sticky{
+background-color: chocolate;
+position: sticky;
+top: 100px;
+
+}
+
+
